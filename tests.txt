@@ -1,0 +1,275 @@
+~ ~ ~ 
+~ ~ ~ 
+~ ~ ~ 
+
+------------------------
+Your Turn
+
+enter x1
+enter y1
+~ ~ ~ 
+~ X ~ 
+~ ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  0
+best column chosen :  0
+total number of states : 55672
+
+0 ~ ~ 
+~ X ~ 
+~ ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  0
+best column chosen :  0
+total number of states : 6143
+
+0 ~ ~ 
+~ X ~ 
+~ ~ ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x0
+enter y2
+
+0 ~ X 
+~ X ~ 
+~ ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  2
+best column chosen :  0
+total number of states : 932
+
+0 ~ X 
+~ X ~ 
+0 ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  2
+best column chosen :  0
+total number of states : 339
+
+0 ~ X 
+~ X ~ 
+0 ~ ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x1
+enter y0
+
+0 ~ X 
+X X ~ 
+0 ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  1
+best column chosen :  2
+total number of states : 50
+
+0 ~ X 
+X X 0 
+0 ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  1
+best column chosen :  2
+total number of states : 38
+
+0 ~ X 
+X X 0 
+0 ~ ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x2
+enter y1
+
+0 ~ X 
+X X 0 
+0 X ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  0
+best column chosen :  1
+total number of states : 4
+
+0 0 X 
+X X 0 
+0 X ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  0
+best column chosen :  1
+total number of states : 4
+
+0 0 X 
+X X 0 
+0 X ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x2
+enter y2
+
+0 0 X 
+X X 0 
+0 X X 
+
+DRAW
+
+
+
+
+
+~ ~ ~ 
+~ ~ ~ 
+~ ~ ~ 
+
+------------------------
+Your Turn
+
+enter x0
+enter y0
+X ~ ~ 
+~ ~ ~ 
+~ ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  1
+best column chosen :  1
+total number of states : 59704
+
+X ~ ~ 
+~ 0 ~ 
+~ ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  1
+best column chosen :  1
+total number of states : 4089
+
+X ~ ~ 
+~ 0 ~ 
+~ ~ ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x0
+enter y1
+
+X X ~ 
+~ 0 ~ 
+~ ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  0
+best column chosen :  2
+total number of states : 934
+
+X X 0 
+~ 0 ~ 
+~ ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  0
+best column chosen :  2
+total number of states : 220
+
+X X 0 
+~ 0 ~ 
+~ ~ ~ 
+
+
+-----------------------
+Your Turn 
+
+enter x1
+enter y0
+
+X X 0 
+X 0 ~ 
+~ ~ ~ 
+
+------------------------
+Computer Turn
+
+----------MINMAX--------
+
+
+best row chosen :  2
+best column chosen :  0
+total number of states : 29
+
+X X 0 
+X 0 ~ 
+0 ~ ~ 
+
+---------- ALPHA BETA------
+
+
+best row chosen :  2
+best column chosen :  0
+total number of states : 24
+
+X X 0 
+X 0 ~ 
+0 ~ ~ 
+
+
+ YOU LOST!
